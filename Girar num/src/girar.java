@@ -12,7 +12,7 @@ public class girar {
 		
 		int contador=numero.length();
 		
-		System.out.println("Pepinissimo");
+		System.out.println("Pepinissim");
 		
 		
 		for(int i=0;i<numero.length();i++){
